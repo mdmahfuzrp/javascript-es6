@@ -1,5 +1,5 @@
 // The output is 950 and it's working
-const bigNumber = Math.max(20,30,950,40,50);
+const bigNumber = Math.max(20,30,950,40);
 console.log(bigNumber);
 
 // // Because this is a array not that's why the output is NaN
